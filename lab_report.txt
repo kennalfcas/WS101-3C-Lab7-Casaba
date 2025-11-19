@@ -1,0 +1,15 @@
+LAB REPORT - lab7 Casaba
+
+2. Provide a text file (lab_report.txt) that includes:
+
+○ The complete URL path for the POST endpoint.
+	- URL: http://localhost:8080/api/products
+
+○ The complete URL path and expected status code for a non-existent item in the GET
+by ID request.
+	- URL: http://localhost:8080/api/products/999 
+	  Expected Status Code: 404 Not Found
+
+○ A screenshot of your REST client (e.g., Postman, Insomnia) showing a successful
+POST request that resulted in a 201 Created status code.
+	-included in the submission folder: postman_screenshot.png
